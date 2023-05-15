@@ -1,4 +1,5 @@
-# -Tata-1Mg-Homeopathic-medicine-Analysis-Divye
+# -Tata-1Mg-Homeopathic-medicine-Analysis-Divye <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48">
+
 This project involves analyzing data related to medicine products, including their benefits, pricing, brands, ratings, and ingredients. The goal is to generate insights that can be used to create an interactive dashboard for analyzing the cost of opening a homeopathic medicine store and selecting the best medicine based on benefit area. 
 
 
