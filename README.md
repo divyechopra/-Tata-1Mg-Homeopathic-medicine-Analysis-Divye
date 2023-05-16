@@ -48,7 +48,7 @@ This project involves analyzing data related to medicine products, including the
 
 - The most used ingredient is Belladonna.
 - The number of medicines in the benefits area Eye is highest.
-- SBL Pvt Ltd has the highest average number of ratings, i.e. ₹ 559.12, in the Hair-benefit area.
+- SBL Pvt Ltd has the highest average number of ratings in the Hair-benefit area.
 - The brand SBL Pvt Ltd has most greater than 4-point review medicines.
 - SBL Pvt Ltd and Bjain Pharmaceutical Pvt Ltd are the two brands that are used most among the benefit areas.
 - Sum of the price of medicines is highest for Eye benefit area.
