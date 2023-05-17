@@ -7,7 +7,7 @@ This project involves analyzing data related to medicine products, including the
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Excel file** | This file provides you two the insights and the analysis  |
+| **Excel file** | This file provides you two the insights and the analysis.  |
 | **Python File** | This contains the .ipynb file related to the web scrapping part.  |
 | **Other Excel file** | These files (merged_data.xlsx, medicine_details_final.xlsx, merged_data.xlsx) have the scarpped data from the 1 Mg website. |
 | **Project Prestation** | This file have the dashboards and insights of the project. |
