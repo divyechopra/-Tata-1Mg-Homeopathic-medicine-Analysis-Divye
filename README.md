@@ -47,18 +47,6 @@ number_of_rating    | Number of people rated that product
 <img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/711af748-c78f-459f-af04-03819899220d">
 
 
-##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Analysis
-
-- Number of medicine available of different benefit area.
-- Price range of medicine for each benefit area.
-- Brand specialization(Key Benefits) of each area.
-- Average price, min price , max price and number of products for each brand.
-- Average number of rating for each brand in their specialization products where  the number of rating is not NULL.
-- Maximum number of times ingredient used in each benefit area.
-- Average cost for ingredients.
-- Most used ingredient
-- Which brand has most greater than 4 point review medicine?
-
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Methodology
