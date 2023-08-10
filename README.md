@@ -1,4 +1,4 @@
-![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/ea3fdd5f-fb73-46e2-bf34-fb6030e7ffa1)# -Tata-1Mg-Homeopathic-medicine-Analysis-Divye <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48">
+# -Tata-1Mg-Homeopathic-medicine-Analysis-Divye <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48">
 
 ## Introduction
 In the modern era, there's a growing interest in homeopathic medicine due to its holistic approach to healing. This project aims to analyze data related to homeopathic medicine products, including benefits, pricing, brands, ratings, and ingredients.
@@ -29,7 +29,7 @@ price_of_the_bottle   | Selling price of the bottle
 
 <img width="276" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/40efdc74-f8e6-4ee7-a7c3-7ce4d2c05df0">
 
-<img width="960" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/e607b8b0-ea18-4dda-9b95-83ed99f323ea">
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/e607b8b0-ea18-4dda-9b95-83ed99f323ea">
 
 - **Table - 2** : *medicine_details*
 
@@ -44,7 +44,7 @@ number_of_rating    | Number of people rated that product
 
 <img width="517" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/35bde19d-8e7a-428e-b38b-6414303be95a">
 
-<img width="960" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/711af748-c78f-459f-af04-03819899220d">
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/711af748-c78f-459f-af04-03819899220d">
 
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Analysis
@@ -67,21 +67,29 @@ number_of_rating    | Number of people rated that product
 
 ### For Table - 1
 
-<img width="560" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/e4e4197f-3402-4c2f-8e51-45a4fa439cf6">
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/e4e4197f-3402-4c2f-8e51-45a4fa439cf6">
 
-<img width="560" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/07370284-62ff-4260-9dbd-801eae2c6f6d">
-
-
-![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/08c46a87-a82d-4d92-bc32-d7a4e685de22)
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/07370284-62ff-4260-9dbd-801eae2c6f6d">
 
 ### For Table - 2
 
-<img width="559" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/d9de285d-650b-47c1-b9ad-bfd97c10bb0b">
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/d9de285d-650b-47c1-b9ad-bfd97c10bb0b">
+
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/76813c27-71f8-4979-b267-ece33c2e1729">
+
 
 
 
 - Used Pandas for the data framing part.
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/df259eb7-ed2a-4a88-a228-7cd830c73740">
+
+<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/c55f970c-a355-4476-afe8-805ca09fa1f5">
+
+
 - Analysis was done with the help of Pandas and Excel.
+
+
+
 - Insights were generated from the above analysis.
 
   1). The number of medicines in the benefits area Eye is highest.
@@ -99,39 +107,52 @@ number_of_rating    | Number of people rated that product
   
   ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/243d2dbc-bb34-467f-a6c6-109080d6fe9b)
 
-- Cost Estimation
-
-  <img width="554" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/0d7ede2c-e952-4ecb-babc-e4caef07cec9">
+- Guesstimation is done for estimating the cost of opening the medical store
+  <img width="960" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/0d7ede2c-e952-4ecb-babc-e4caef07cec9">
 
   
 
 - Excel is used for **dashboard** and data visualization.
 ## Dashboard
+
 ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/47d8c396-f3da-4198-b87d-599bf66188e2)
 
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
 
-# Dashboards
-
-<img width="960" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/b7f4ed41-9e7a-4d8a-b6c5-ef09d915c938">
 
 
-![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/47d8c396-f3da-4198-b87d-599bf66188e2)
-
-
-# Insights
+# Insights from the Dashboard
 
 - The most used ingredient is Belladonna.
 - The number of medicines in the benefits area Eye is highest.
 - SBL Pvt Ltd has the highest average number of ratings in the Hair-benefit area.
 - The brand SBL Pvt Ltd has most greater than 4-point review medicines.
 - SBL Pvt Ltd and Bjain Pharmaceutical Pvt Ltd are the two brands that are used most among the benefit areas.
-- Sum of the price of medicines is highest for Eye benefit area.
 - The Brand SBL Pvt Ltd has the highest number of medicines of where a number of ratings is present.
 - Most rated medicine is from the Eye benefit area.
 - The highest number of medicine, which are rated above 3.5, is from the Eye benefit area.
-- Medicines of Eye benefit area would be recommended to purchase or from the brand SBL Pvt Ltd. 
+- Medicines of Eye benefit area would be recommended to purchase or from the brand SBL Pvt Ltd.
+
+# Challenges and learnings
+
+- **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
+- **Google Colab Solution**: Resolved the issue by migrating scraping operations to Google Colab.
+- **Extended Scraping Time**: Extracting details of each medicine took more time than anticipated.
+- **Duplicate Data Issue**: Encountered delays due to duplicate data in the scraping process.
+- **Learning Efficiency**: Gained insights into optimizing scraping methods for speed and accuracy.
+
+# Conculsion
+
+Despite challenges in data scraping and extended collection time, this project recommends prioritizing "Eye" benefit area medicines and considering products from SBL Pvt Ltd for a homeopathic store. The experience underscores the significance of adaptability, efficiency, and meticulous analysis in informed decision-making for the retail of homeopathic medicine.
+
+
+
+
+
+
+
+
 
 
 
