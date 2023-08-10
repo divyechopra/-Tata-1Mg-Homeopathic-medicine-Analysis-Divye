@@ -57,14 +57,9 @@ number_of_rating    | Number of people rated that product
 
 <img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/e4e4197f-3402-4c2f-8e51-45a4fa439cf6">
 
-<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/07370284-62ff-4260-9dbd-801eae2c6f6d">
-
 ### For Table - 2
 
 <img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/d9de285d-650b-47c1-b9ad-bfd97c10bb0b">
-
-<img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/76813c27-71f8-4979-b267-ece33c2e1729">
-
 
 - **Used Pandas for the data framing part.**
 <img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/df259eb7-ed2a-4a88-a228-7cd830c73740">
