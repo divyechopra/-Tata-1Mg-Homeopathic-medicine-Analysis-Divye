@@ -1,9 +1,9 @@
-# -Tata-1Mg-Homeopathic-medicine-Analysis-Divye <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48">
+# -Tata-1Mg-Homeopathic-medicine-Analysis <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48">
 
 ## Introduction
 In the modern era, there's a growing interest in homeopathic medicine due to its holistic approach to healing. This project aims to analyze data related to homeopathic medicine products, including benefits, pricing, brands, ratings, and ingredients.
 
-## Problem aimed to Solve
+## Problem Aimed to Solve
 This project helps entrepreneurs estimate costs for a homeopathic store and select relevant products. It uses data analysis to empower informed decisions, aiming to create an interactive dashboard for cost evaluation and product selection based on benefits.
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
@@ -51,7 +51,7 @@ number_of_rating    | Number of people rated that product
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Methodology
 
-- **Scraped the data with the help of Python BeautifulSoup librariy.**
+- **Scraped the data with the help of Python BeautifulSoup library.**
 
 ### For Table - 1
 
