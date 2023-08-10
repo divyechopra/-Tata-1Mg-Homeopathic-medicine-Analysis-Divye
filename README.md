@@ -109,16 +109,11 @@ number_of_rating    | Number of people rated that product
   
 
 - **Excel is used for dashboard and data visualization.**
-## Dashboard
+  ## Dashboard
 
-![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/47d8c396-f3da-4198-b87d-599bf66188e2)
+  ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/47d8c396-f3da-4198-b87d-599bf66188e2)
 
-
-## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
-
-
-
-# Insights from the Dashboard
+  ## Insights from the Dashboard
 
 - The most used ingredient is Belladonna.
 - The number of medicines in the benefits area Eye is highest.
@@ -138,7 +133,7 @@ number_of_rating    | Number of people rated that product
 - **Duplicate Data Issue**: Encountered delays due to duplicate data in the scraping process.
 - **Learning Efficiency**: Gained insights into optimizing scraping methods for speed and accuracy.
 
-# Conculsion
+## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
 
 Despite challenges in data scraping and extended collection time, this project recommends prioritizing "Eye" benefit area medicines and considering products from SBL Pvt Ltd for a homeopathic store. The experience underscores the significance of adaptability, efficiency, and meticulous analysis in informed decision-making for the retail of homeopathic medicine.
 
