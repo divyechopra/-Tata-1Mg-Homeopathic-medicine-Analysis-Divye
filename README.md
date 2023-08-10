@@ -63,7 +63,7 @@ number_of_rating    | Number of people rated that product
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Methodology
 
-- Scraped the data with the help of Python BeautifulSoup librariy.
+- **Scraped the data with the help of Python BeautifulSoup librariy.**
 
 ### For Table - 1
 
@@ -78,41 +78,37 @@ number_of_rating    | Number of people rated that product
 <img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/76813c27-71f8-4979-b267-ece33c2e1729">
 
 
-
-
-- Used Pandas for the data framing part.
+- **Used Pandas for the data framing part.**
 <img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/df259eb7-ed2a-4a88-a228-7cd830c73740">
 
 <img width="900" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/c55f970c-a355-4476-afe8-805ca09fa1f5">
 
 
-- Analysis was done with the help of Pandas and Excel.
+- **Analysis was done with the help of Pandas and Excel.**
 
+- **Insights were generated from the above analysis.**
 
-
-- Insights were generated from the above analysis.
-
-  1). The number of medicines in the benefits area Eye is highest.
+  1). **The number of medicines in the benefits area Eye is highest.**
   ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/d5a73475-3445-4549-b4de-5bba03278f32)
   
-  2). SBL Pvt Ltd has the highest average number of ratings, i.e. ₹ 559.12, in the Hair-benefit area.
+  2). **SBL Pvt Ltd has the highest average number of ratings, i.e. ₹ 559.12, in the Hair-benefit area.**
   
   ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/1449fe0a-7733-4a51-8f61-30375f9085d9)
   
-  3). The brand SBL Pvt Ltd has most greater than 4-point review medicines.
+  3). **The brand SBL Pvt Ltd has most greater than 4-point review medicines.**
   
   ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/f37489ad-d410-450c-99e3-1e1f40992289)
 
-  4). Natrum Muriaticum in Heart key benefit area, is the most used Ingredient overall.
+  4). **Natrum Muriaticum in Heart key benefit area, is the most used Ingredient overall.**
   
   ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/243d2dbc-bb34-467f-a6c6-109080d6fe9b)
 
-- Guesstimation is done for estimating the cost of opening the medical store
+- **Guesstimation is done for estimating the cost of opening the medical store.**
   <img width="960" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/0d7ede2c-e952-4ecb-babc-e4caef07cec9">
 
   
 
-- Excel is used for **dashboard** and data visualization.
+- **Excel is used for dashboard and data visualization.**
 ## Dashboard
 
 ![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/47d8c396-f3da-4198-b87d-599bf66188e2)
