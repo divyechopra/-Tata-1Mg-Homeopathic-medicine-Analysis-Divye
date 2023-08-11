@@ -10,9 +10,8 @@ This project helps entrepreneurs estimate costs for a homeopathic store and sele
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Excel file** | This file provides you two the insights and the analysis.  |
+| **Excel file** | This file provides you the insights and the analysis and other files(merged_data.xlsx, medicine_details_final.xlsx, merged_data.xlsx) have the scrapped                   data from the 1 Mg website. |
 | **Python File** | This contains the .ipynb file related to the web scrapping part.  |
-| **Other Excel file** | These files (merged_data.xlsx, medicine_details_final.xlsx, merged_data.xlsx) have the scarpped data from the 1 Mg website. |
 
 ## Data Description
 
